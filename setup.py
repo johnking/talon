@@ -44,7 +44,7 @@ def install_pyml():
         return
 
     # install numpy first
-    pip('install numpy==1.6.1 --upgrade')
+    # pip('install numpy==1.6.1 --upgrade')
 
     pyml_tarball = (
         'http://09cce49df173f6f6e61f-fd6930021b51685920a6fa76529ee321'
